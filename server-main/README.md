@@ -1,0 +1,2 @@
+# server
+pip install Flask  
